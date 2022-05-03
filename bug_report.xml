@@ -1,1 +1,10 @@
-
+<xml>
+  <Bug_id>""/<Bug_id>
+  <Summary>""</Summary>
+  <Severity>""</Severity>
+  <Environtment>""</Environtment>
+  <Preconditions>""</Preconditions>
+  <Steps to reproduce>""</Steps to reproduce>
+  <Actual result>""</Actual result>
+  <Expected result>""</Expected result>
+  <Attachment>""</Attachment>
